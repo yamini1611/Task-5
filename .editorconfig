@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1072: Expected identifier or numeric literal
+dotnet_diagnostic.CS1072.severity = suggestion
